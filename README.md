@@ -9,3 +9,7 @@ DevTools](http://addyosmani.com/blog/taming-the-unicorn-easing-javascript-memory
 ## CSS
 [CSS guidelines](http://cssguidelin.es/) High-level advice and guidelines for
 writing sane, manageable, scalable CSS. By Harry Roberts
+
+## Vim  
+[Vim video tutorials](http://derekwyatt.org/vim/tutorials/) Video tutorials from
+beginners to advanced, nicely sorted.  
